@@ -5,6 +5,11 @@ As a small hobby, I do a weekly commentary livestream for the Stadium 2 matches 
 
 Since Python doesn't have set list sizes, this should easily expand to Pokemon Battle Revolution once Streamer-senpai gets that going, requiring only a swap of the input files.  I'll happily update the repo once that happens.
 
+Twitch Plays Pokemon: http://twitch.tv/twitchplayspokemon
+  Runs 24/7
+Pixley Commentates Twitch: http://mixlr.com/pixley
+  Broadcasts Tuesdays at 2 PM UTC
+
 ============
 Quick Documentation
 ============
