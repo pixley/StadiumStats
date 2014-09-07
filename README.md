@@ -34,8 +34,6 @@ File containing the stats of each Pokemon available for rent in Stadium 2 (with 
 
 Stat order: HP, Attack, Defense, Sp. Atk, Sp. Def, Speed
 
-numberlist.txt
+pokelist.txt
 ------------
-I'll admit, this file is very poorly named.  I might fix it if other people are interested in working with it.
-
 Each line is the name of the Pokemon whose National Dex number is that of the line (counted starting with 1).  Mewtwo and Mew are skipped due to not being available for rent in Stadium 2.
