@@ -1,6 +1,10 @@
 Pixley's StadiumStats!
 ============
 
+------------
+Requires Python 3.4!  Make sure you're running 3.4, not 2.7!
+------------
+
 As a small hobby, I do a weekly commentary livestream for the Stadium 2 matches being played on Twitch Plays Pokemon between the runs of Pokemon X and Pokemon Omega Ruby.  I'm not well-versed in base stats, so I decided to build a reference program to quickly check the stats of the combatants, because I think knowing the relative stats will make for better commentary.
 
 Since Python doesn't have set list sizes, this should easily expand to Pokemon Battle Revolution once Streamer-senpai gets that going, requiring only a swap of the input files.  I'll happily update the repo once that happens.
