@@ -55,11 +55,11 @@ while True:
          break
       
       #Main part of table
-      print(bluepokes[x].ljust(10), statlist[bluedexnum], '|', statlist[reddexnum], redpokes[x].rjust(10))
+      print(bluepokes[x].rjust(10), statlist[bluedexnum], '|', statlist[reddexnum], redpokes[x].ljust(10))
          
    print('\n')
      
-   throwaway = input('Type exit to quit, or hit enter to prepare for next match.')
+   throwaway = input('Type exit to quit, or hit enter to prepare for next match. ')
    if throwaway == "exit":
       break
    print('\n')
