@@ -135,7 +135,7 @@ Vaporeon
 Jolteon
 Flareon
 Porygon
-Omanite
+Omanyte
 Omastar
 Kabuto
 Kabutops
