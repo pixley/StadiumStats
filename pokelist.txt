@@ -148,7 +148,7 @@ Dratini
 Dragonair
 Dragonite
 Mewtwo
-Shiny Mewtwo
+*Mewtwo
 Mew
 Chikorita
 Bayleef
@@ -177,7 +177,7 @@ Togepi
 Togetic
 Natu
 Xatu
-Shiny Xatu
+*Xatu
 Mareep
 Flaaffy
 Ampharos
@@ -202,7 +202,7 @@ Slowking
 Misdreavus
 Unown
 Wobbuffet
-Shiny Wobbuffet
+*Wobbuffet
 Girafarig
 Pineco
 Forretress
@@ -214,7 +214,7 @@ Granbull
 Qwilfish
 Scizor
 Shuckle
-Shiny Shuckle
+*Shuckle
 Heracross
 Sneasel
 Teddiursa
@@ -245,18 +245,18 @@ Magby
 Miltank
 Blissey
 Raikou
-Shiny Raikou
+*Raikou
 Entei
-Shiny Entei
+*Entei
 Suicune
-Shiny Suicune
+*Suicune
 Larvitar
 Pupitar
 Tyranitar
 Lugia
-Shiny Lugia
+*Lugia
 Ho-Oh
-Shiny Ho-Oh
+*Ho-Oh
 Celebi
 Treecko
 Grovyle
@@ -282,7 +282,7 @@ Ludicolo
 Seedot
 Nuzleaf
 Shiftry
-Shiny Shiftry
+*Shiftry
 Taillow
 Swellow
 Wingull
@@ -297,7 +297,7 @@ Breloom
 Slakoth
 Vigoroth
 Slaking
-Shiny Slaking
+*Slaking
 Nincada
 Ninjask
 Shedinja
@@ -448,7 +448,7 @@ Buneary
 Lopunny
 Mismagius
 Honchkrow
-Shiny Honchkrow
+*Honchkrow
 Glameow
 Purugly
 Chingling
@@ -461,7 +461,7 @@ Mime Jr.
 Happiny
 Chatot
 Spiritomb
-Shiny Spiritomb
+*Spiritomb
 Gible
 Gabite
 Garchomp
@@ -484,10 +484,10 @@ Weavile
 Magnezone
 Lickilicky
 Rhyperior
-Shiny Rhyperior
+*Rhyperior
 Tangrowth
 Electivire
-Shiny Electivire
+*Electivire
 Magmortar
 Togekiss
 Yanmega
@@ -505,20 +505,20 @@ Uxie
 Mesprit
 Azelf
 Dialga
-Shiny Dialga
+*Dialga
 Palkia
-Shiny Palkia
+*Palkia
 Heatran
-Shiny Heatran
+*Heatran
 Regigigas
-Shiny Regigigas
+*Regigigas
 Giratina
-Shiny Giratina
+*Giratina
 Cresselia
 Phione
 Manaphy
-Shiny Manaphy
+*Manaphy
 Darkrai
 Shaymin
-Shiny Shaymin
+*Shaymin
 Arceus

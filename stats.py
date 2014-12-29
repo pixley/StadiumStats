@@ -20,7 +20,8 @@ while True:
    print('Please check spelling.  The stream has them written for you.')
    print('Names must have the first letter capitalized.')
    print('Just in case, these are the valid forms for the following Pokemon:')
-   print("  Nidoran-F, Nidoran-M, Farfetch'd, Mr. Mime, Porygon2\n")
+   print("  Nidoran-F, Nidoran-M, Farfetch'd, Mr. Mime, Porygon2, Deoxys-N/A/D/S,\n  Burmy/Wormadam-D/S/T, Shellos/Gastrodon-E/W, Mime Jr., Porygon-Z")
+   print('Shiny Pokemon are handled using the following format: "*XXXX"\n')
    bluepokes = []
    bluepokes.append(input('Input 1st blue Pokemon: '))
    bluepokes.append(input('Input 2nd blue Pokemon: '))
@@ -31,15 +32,16 @@ while True:
    redpokes.append(input('Input 2nd red Pokemon:  '))
    redpokes.append(input('Input 3rd red Pokemon:  '))
    
-   print('\n')
+   #these are no longer needed as of PBR, since the split has happened
+   #print('\n')
    #Print out type classification, for reference
-   print('Special types:  FIR WTR ELE GRS ICE PSY DRG DRK')
-   print('Physical types: NML FGT PSN GRN FLY BUG RCK GHO STL')
+   #print('Special types:  FIR WTR ELE GRS ICE PSY DRG DRK')
+   #print('Physical types: NML FGT PSN GRN FLY BUG RCK GHO STL')
    
    print('\n')
    
-   print('BLUE'.rjust(34), '|', 'RED'.ljust(34))
-   print('           HP  Atk Def SpA SpD Spe | HP Atk Def SpA SpD Spe')
+   print('BLUE'.rjust(35), '|', 'RED'.ljust(35))
+   print('            HP  Atk Def SpA SpD Spe | HP Atk Def SpA SpD Spe')
  
    #Python's weird.  The range is inclusive for the first value, but exclusive for the second
    for x in range(0, 3):
@@ -55,7 +57,7 @@ while True:
          break
       
       #Main part of table
-      print(bluepokes[x].rjust(10), statlist[bluedexnum], '|', statlist[reddexnum], redpokes[x].ljust(10))
+      print(bluepokes[x].rjust(11), statlist[bluedexnum], '|', statlist[reddexnum], redpokes[x].ljust(11))
          
    print('\n')
      
